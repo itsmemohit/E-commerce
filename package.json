@@ -1,0 +1,30 @@
+{
+    "name": "website",
+    "version": "1.0.0",
+    "description": "Project",
+    "main": "index.html",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/itsmemohit/E-commerce.git"
+    },
+    "author": "Mohit Dangwal",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/itsmemohit/E-commerce/issues"
+    },
+    "homepage": "https://github.com/itsmemohit/E-commerce#readme",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    },
+    "dependencies": {
+        "bootstrap": "^4.5.2",
+        "font-awesome": "^4.7.0",
+        "jquery": "^3.5.1",
+        "popper.js": "^1.12.9"
+    }
+}
